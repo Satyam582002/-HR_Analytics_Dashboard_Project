@@ -17,5 +17,3 @@ This project analyzes an HR dataset of 1,470 employees to uncover key workforce 
 - [ ] Tableau (dashboard development & visualization)
 - [ ] Excel (dataset preparation and cleaning)
 
-
-HR Data (1,470 employees) – includes demographics, attrition, education, job role, and satisfaction metrics
