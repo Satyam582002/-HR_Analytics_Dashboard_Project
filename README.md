@@ -1,4 +1,4 @@
-# -HR_Analytics_Dashboard_Project
+# HR_Analytics_Dashboard_Project
 
 ## Project Overview:
 
