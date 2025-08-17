@@ -1,6 +1,6 @@
 # HR_Analytics_Dashboard_Project
 
-## Project Overview:
+### Project Overview:
 
 This project analyzes an HR dataset of 1,470 employees to uncover key workforce insights such as attrition patterns, employee demographics, and job satisfaction trends. Using Tableau, I built an interactive HR Analytics Dashboard that helps management identify high-risk groups, improve employee retention, and make data-driven HR decisions.
 
